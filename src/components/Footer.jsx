@@ -20,7 +20,7 @@ export default function Footer() {
 
 		<div>
 		  <div className="font-semibold" style={{ color: 'var(--text)' }}>Contact</div>
-		  <div className="mt-3" style={{ color: 'var(--text-secondary)' }}>hello@crave.example<br/>+1 (555) 123-4567</div>
+			<div className="mt-3" style={{ color: 'var(--text-secondary)' }}>rahul<br/>9411154258</div>
 		  <div className="mt-4 text-sm" style={{ color: 'var(--text-muted)' }}>© {new Date().getFullYear()} CRAVE. All rights reserved.</div>
 		</div>
 	  </div>
